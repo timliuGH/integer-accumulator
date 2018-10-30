@@ -6,10 +6,12 @@ TITLE Integer Accumulator     (Program03_Liu_Timothy.asm)
 ; Course number/section: CS_271_400_F2018
 ; Project Number: 03                Due Date: October 28, 2018
 ; Description: This program will introduce the program and the programmer, greet the user,
-; prompt the user for values until a non-negative number is entered, then display the 
-; following: the number of negative numbers entered, the sum of the numbers, the average
-; rounded to the nearest integer and rounded to the nearest 0.001. The program will ask the
-; user to play again, change players, or quit. Finally the program will say farewell to the user.
+; 	prompt the user for values until a non-negative number is entered, then display the 
+; 	following: the number of negative numbers entered, the sum of the numbers, the average
+; 	rounded to the nearest integer and rounded to the nearest 0.001. The program will ask the
+; 	user to play again, change players, or quit. Finally the program will say farewell to the user.
+
+; Implementation notes: Uses global variables
 
 INCLUDE Irvine32.inc
 
