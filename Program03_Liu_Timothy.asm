@@ -2,9 +2,6 @@ TITLE Integer Accumulator     (Program03_Liu_Timothy.asm)
 
 ; Author: Timothy Liu
 ; Last Modified: October 27, 2018
-; OSU email address: liutim@oregonstate.edu
-; Course number/section: CS_271_400_F2018
-; Project Number: 03                Due Date: October 28, 2018
 ; Description: This program will introduce the program and the programmer, greet the user,
 ; 	prompt the user for values until a non-negative number is entered, then display the 
 ; 	following: the number of negative numbers entered, the sum of the numbers, the average
